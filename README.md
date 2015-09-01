@@ -49,7 +49,7 @@ ping1 | pīng | ping1 | pɪŋ<sup>1</sup> | 'pɪŋ | pʰɪŋ˥ | ping1 | ping1 |
 ## 另見
 
 * [漢語拼音轉換表](https://github.com/kfcd/pinyin)
-* [閩南語拼音轉換表](https://github.com/pengim)
+* [閩南語拼音轉換表](https://github.com/kfcd/pheng-im)
 
 ## 版權
 
