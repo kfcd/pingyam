@@ -1766,6 +1766,12 @@ kaan3	kaan	kaan3	kan³	¯kan	kʰa:n˧	kaan3	kan3	kaan³	kan3	kân
 kaan4	kàahn	kaan4	kan⁴	ˌkan	kʰa:n˨˩	kaan4	kan4	kaan⁴	kan4	kan
 kaan5	káahn	kaan5	kan⁵	ˏkan	kʰa:n˩˧	kaan5	kan5	kaan⁵	kan5	kán
 kaan6	kaahn	kaan6	kan⁶	_kan	kʰa:n˨	kaan6	kan6	kaan⁶	kan6	kàn
+kaang1	kāang	kaang1	kaŋ¹	'kaŋ	kʰa:ŋ˥	kaang1	kang1	kaang¹	kang1	käng
+kaang2	káang	kaang2	kaŋ²	´kaŋ	kʰa:ŋ˧˥	kaang2	kang2	kaang²	kang2	kãng
+kaang3	kaang	kaang3	kaŋ³	¯kaŋ	kʰa:ŋ˧	kaang3	kang3	kaang³	kang3	kâng
+kaang4	kàahng	kaang4	kaŋ⁴	ˌkaŋ	kʰa:ŋ˨˩	kaang4	kang4	kaang⁴	kang4	kang
+kaang5	káahng	kaang5	kaŋ⁵	ˏkaŋ	kʰa:ŋ˩˧	kaang5	kang5	kaang⁵	kang5	káng
+kaang6	kaahng	kaang6	kaŋ⁶	_kaŋ	kʰa:ŋ˨	kaang6	kang6	kaang⁶	kang6	kàng
 kaap7	kāap	kaap7	kap⁷	'kap	kʰa:p˥	kaap1	kab1	kaap¹	kab1	käb
 kaap8	kaap	kaap8	kap⁸	¯kap	kʰa:p˧	kaap3	kab3	kaap³	kab3	kâb
 kaap9	kaahp	kaap9	kap⁹	_kap	kʰa:p˨	kaap6	kab6	kaap⁶	kab6	kàb
@@ -1936,6 +1942,12 @@ kok2	kók	kok2	kɔk²	´kɔk	kʰɔ:k˧˥	kok2	kog2	kok²	kog2	kõg
 kok7	kōk	kok7	kɔk⁷	'kɔk	kʰɔ:k˥	kok1	kog1	kok¹	kog1	kög
 kok8	kok	kok8	kɔk⁸	¯kɔk	kʰɔ:k˧	kok3	kog3	kok³	kog3	kôg
 kok9	kohk	kok9	kɔk⁹	_kɔk	kʰɔ:k˨	kok6	kog6	kok⁶	kog6	kòg
+kon1	kōn	kon1	kɔn¹	'kɔn	kʰɔ:n˥	kon1	kon1	kon¹	kon1	kön
+kon2	kón	kon2	kɔn²	´kɔn	kʰɔ:n˧˥	kon2	kon2	kon²	kon2	kõn
+kon3	kon	kon3	kɔn³	¯kɔn	kʰɔ:n˧	kon3	kon3	kon³	kon3	kôn
+kon4	kòhn	kon4	kɔn⁴	ˌkɔn	kʰɔ:n˨˩	kon4	kon4	kon⁴	kon4	kon
+kon5	kóhn	kon5	kɔn⁵	ˏkɔn	kʰɔ:n˩˧	kon5	kon5	kon⁵	kon5	kón
+kon6	kohn	kon6	kɔn⁶	_kɔn	kʰɔ:n˨	kon6	kon6	kon⁶	kon6	kòn
 kong1	kōng	kong1	kɔŋ¹	'kɔŋ	kʰɔ:ŋ˥	kong1	kong1	kong¹	kong1	köng
 kong2	kóng	kong2	kɔŋ²	´kɔŋ	kʰɔ:ŋ˧˥	kong2	kong2	kong²	kong2	kõng
 kong3	kong	kong3	kɔŋ³	¯kɔŋ	kʰɔ:ŋ˧	kong3	kong3	kong³	kong3	kông
@@ -3604,6 +3616,9 @@ weng6	wehng	weng6	wɛŋ⁶	_wɛŋ	wɛ:ŋ˨	weng6	wéng6	weng⁶	weng6	wèng
 wet7	wēt	wet7	wɛt⁷	'wɛt	wɛ:t˥	wet1	wéd1	wet¹	wed1	wëd
 wet8	wet	wet8	wɛt⁸	¯wɛt	wɛ:t˧	wet3	wéd3	wet³	wed3	wêd
 wet9	weht	wet9	wɛt⁹	_wɛt	wɛ:t˨	wet6	wéd6	pet⁶	wed6	wèd
+weuk7	weūk	woek7	wœk⁷	'wœk	wœ:k˥	woek1	wêg1	weuk¹	weog1	weög
+weuk8	weuk	woek8	wœk⁸	¯wœk	wœ:k˧	woek3	wêg3	weuk³	weog3	weôg
+weuk9	weuhk	woek9	wœk⁹	_wœk	wœ:k˨	woek6	wêg6	weuk⁶	weog6	weòg
 wi1	wī	wi1	wi¹	'wi	wi:˥	wi1	wi1	wi¹	wi1	wï
 wi2	wí	wi2	wi²	´wi	wi:˧˥	wi2	wi2	wi²	wi2	wĩ
 wi3	wi	wi3	wi³	¯wi	wi:˧	wi3	wi3	wi³	wi3	wî
