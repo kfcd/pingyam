@@ -752,6 +752,12 @@ ei3	ei	ei3	ei³	¯ei	ei˧	ei3	éi3	ei³	ey3	êy
 ei4	èih	ei4	ei⁴	ˌei	ei˨˩	ei4	éi4	ei⁴	ey4	ey
 ei5	éih	ei5	ei⁵	ˏei	ei˩˧	ei5	éi5	ei⁵	ey5	éy
 ei6	eih	ei6	ei⁶	_ei	ei˨	ei6	éi6	ei⁶	ey6	èy
+em1	ēm	em1	ɛm¹	'ɛm	ɛ:m˥	em1	ém1	em¹	em1	ëm
+em2	ém	em2	ɛm²	´ɛm	ɛ:m˧˥	em2	ém2	em²	em2	ẽm
+em3	em	em3	ɛm³	¯ɛm	ɛ:m˧	em3	ém3	em³	em3	êm
+em4	èhm	em4	ɛm⁴	ˌɛm	ɛ:m˨˩	em4	ém4	em⁴	em4	em
+em5	éhm	em5	ɛm⁵	ˏɛm	ɛ:m˩˧	em5	ém5	em⁵	em5	ém
+em6	ehm	em6	ɛm⁶	_ɛm	ɛ:m˨	em6	ém6	em⁶	em6	èm
 en1	ēn	en1	ɛn¹	'ɛn	ɛ:n˥	en1	én1	en¹	en1	ën
 en2	én	en2	ɛn²	´ɛn	ɛ:n˧˥	en2	én2	en²	en2	ẽn
 en3	en	en3	ɛn³	¯ɛn	ɛ:n˧	en3	én3	en³	en3	ên
@@ -2379,7 +2385,7 @@ man6	mahn	man6	mɐn⁶	_mɐn	mɐn˨	man6	men6	man⁶	mant6	mànt
 mang1	māng	mang1	mɐŋ¹	'mɐŋ	mɐŋ˥	mang1	meng1	mang¹	mank1	mänk
 mang2	máng	mang2	mɐŋ²	´mɐŋ	mɐŋ˧˥	mang2	meng2	mang²	mank2	mãnk
 mang3	mang	mang3	mɐŋ³	¯mɐŋ	mɐŋ˧	mang3	meng3	mang³	mank3	mânk
-mang4	màhng	mang4	mɐŋ⁴	ˌmɐŋ	mɐŋ˨˩	mang4
+mang4	màhng	mang4	mɐŋ⁴	ˌmɐŋ	mɐŋ˨˩	mang4	meng4	mang⁴	mank4	mank
 mang5	máhng	mang5	mɐŋ⁵	ˏmɐŋ	mɐŋ˩˧	mang5	meng5	mang⁵	mank5	mánk
 mang6	mahng	mang6	mɐŋ⁶	_mɐŋ	mɐŋ˨	mang6	meng6	mang⁶	mank6	mànk
 mat2	mát	mat2	mɐt²	´mɐt	mɐt˧˥	mat2	med2	mat²	mat2	mãt
@@ -2413,7 +2419,6 @@ men6	mehn	men6	mɛn⁶	_mɛn	mɛ:n˨	men6	mén6	men⁶	men6	mèn
 meng1	mēng	meng1	mɛŋ¹	'mɛŋ	mɛ:ŋ˥	meng1	méng1	meng¹	meng1	mëng
 meng2	méng	meng2	mɛŋ²	´mɛŋ	mɛ:ŋ˧˥	meng2	méng2	meng²	meng2	mẽng
 meng3	meng	meng3	mɛŋ³	¯mɛŋ	mɛ:ŋ˧	meng3	méng3	meng³	meng3	mêng
-meng4	mang⁴	mank4	mank
 meng4	mèhng	meng4	mɛŋ⁴	ˌmɛŋ	mɛ:ŋ˨˩	meng4	méng4	meng⁴	meng4	meng
 meng5	méhng	meng5	mɛŋ⁵	ˏmɛŋ	mɛ:ŋ˩˧	meng5	méng5	meng⁵	meng5	méng
 meng6	mehng	meng6	mɛŋ⁶	_mɛŋ	mɛ:ŋ˨	meng6	méng6	meng⁶	meng6	mèng
