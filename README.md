@@ -2,7 +2,7 @@
 
 ## 說明
 
-本表根據[開放詞典網](http://kaifangcidian.com/)數據，對照粵語（白話/廣東話/廣州話）的各種拼音系統之間的轉換關係，以便於提供多元化的拼音轉換功能。2009年起，[開放粵語詞典](http://kaifangcidian.com/han/yue)便以此表標出搜索結果的拼音信息。
+本表根據[開放詞典網](https://kaifangcidian.com/)數據，對照粵語（白話/廣東話/廣州話）的各種拼音系統之間的轉換關係，以便於提供多元化的拼音轉換功能。2009年起，[開放粵語詞典](https://kaifangcidian.com/han/yue)便以此表標出搜索結果的拼音信息。
 
 其特點在於每個音都標出所有可能的調值，亦儘量收錄“有音無字”的音節，以正確顯示轉寫方式之間在實用情況下的差異（類似拼音表一般標音不標調）。
 
@@ -53,8 +53,8 @@ ping1 | pīng | ping1 | pɪŋ¹ | 'pɪŋ | pʰɪŋ˥ | ping1 | ping1 | ping¹ | 
 
 ## 版權
 
-© 2015 [開放詞典](http://www.kaifangcidian.com)
+© 2015 [開放詞典](https://www.kaifangcidian.com)
 
 本倉庫內容依照創作共用（創用CC/知識共享）姓名標示（署名）協議發佈。
 
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />本著作係採用<a rel="license" href="http://creativecommons.org/licenses/by/3.0/">創用 CC 姓名標示 3.0 未本地化 授權條款</a>授權.
+<a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />本著作係採用<a rel="license" href="https://creativecommons.org/licenses/by/3.0/">創用 CC 姓名標示 3.0 未本地化 授權條款</a>授權.
