@@ -36,7 +36,7 @@ ping1 | pīng | ping1 | pɪŋ¹ | 'pɪŋ | pʰɪŋ˥ | ping1 | ping1 | ping¹ | 
 ## 實現示例
 
 * Ruby
-* JavaScript
+* JavaScript: [pingyam-js](https://github.com/dohliam/pingyam-js)
 * Lingvo DSL 詞典格式
 
 ## 待處理
