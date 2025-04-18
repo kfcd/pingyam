@@ -1068,6 +1068,10 @@ gep2	gép	gep2	gɛp²	´gɛp	kɛːp˧˥	gep2	géb2	gep²	geb2	gẽb
 gep7	gēp	gep7	gɛp⁷	'gɛp	kɛːp˥	gep1	géb1	gep¹	geb1	gëb
 gep8	gep	gep8	gɛp⁸	¯gɛp	kɛːp˧	gep3	géb3	gep³	geb3	gêb
 gep9	gehp	gep9	gɛp⁹	_gɛp	kɛːp˨	gep6	géb6	gep⁶	geb6	gèb
+get2	gét	get2	gɛt²	´gɛt	kɛːt˧˥	get2	géd2	get²	ged2	gẽd
+get7	gēt	get7	gɛt⁷	'gɛt	kɛːt˥	get1	géd1	get¹	ged1	gëd
+get8	get	get8	gɛt⁸	¯gɛt	kɛːt˧	get3	géd3	get³	ged3	gêd
+get9	geht	get9	gɛt⁹	_gɛt	kɛːt˨	get6	géd6	get⁶	ged6	gèd
 geu1	gēu	goe1	gœ¹	'gœ	kœː˥	goe1	gê1	geuh¹	geo1	geö
 geu2	géu	goe2	gœ²	´gœ	kœː˧˥	goe2	gê2	geuh²	geo2	geõ
 geu3	geu	goe3	gœ³	¯gœ	kœː˧	goe3	gê3	geuh³	geo3	geô
@@ -3260,6 +3264,12 @@ se3	se	se3	sɛ³	¯sɛ	sɛː˧	se3	sé3	se³	se3	sê
 se4	sèh	se4	sɛ⁴	ˌsɛ	sɛː˨˩	se4	sé4	se⁴	se4	se
 se5	séh	se5	sɛ⁵	ˏsɛ	sɛː˩˧	se5	sé5	se⁵	se5	sé
 se6	seh	se6	sɛ⁶	_sɛ	sɛː˨	se6	sé6	se⁶	se6	sè
+seeu1	sēeu	seu1	sɛu¹	'sɛu	sɛːu˥	seu1	séu1	seu¹	seau1	seäu
+seeu2	séeu	seu2	sɛu²	´sɛu	sɛːu˧˥	seu2	séu2	seu²	seau2	seãu
+seeu3	seeu	seu3	sɛu³	¯sɛu	sɛːu˧	seu3	séu3	seu³	seau3	seâu
+seeu4	sèeuh	seu4	sɛu⁴	ˌsɛu	sɛːu˨˩	seu4	séu4	seu⁴	seau4	seau
+seeu5	séeuh	seu5	sɛu⁵	ˏsɛu	sɛːu˩˧	seu5	séu5	seu⁵	seau5	seáu
+seeu6	seeuh	seu6	sɛu⁶	_sɛu	sɛːu˨	seu6	séu6	seu⁶	seau6	seàu
 sei1	sēi	sei1	sei¹	'sei	sei˥	sei1	séi1	sei¹	sey1	sëy
 sei2	séi	sei2	sei²	´sei	sei˧˥	sei2	séi2	sei²	sey2	sẽy
 sei3	sei	sei3	sei³	¯sei	sei˧	sei3	séi3	sei³	sey3	sêy
